@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -20,6 +20,7 @@ I'm a Creative thinker and capable humane being.
 Aspiring to spread Awareness and Empathy through out the world by utilizing the Arts, Technology and Human interaction. 
 Over 10 years of creative experience; 
 
+- Curious humane being 🤔🧐
 - Avid life learner 🧠
 - 🌱 I’m currently learning {MERN} 
 - 🔭 I’m currently working to become a better version of myself, but in these specific moments Im looking to be a better 💻 Software Constructor !
@@ -29,11 +30,12 @@ Over 10 years of creative experience;
 I love to be creative in many ways ! Life experiences 🧗🏾‍♂️ have taught me to be adaptable and more than less unique in my approach to problem solving.
 
 ### What do I do for Fun ?
-- Create whatever I feel, but mostly Analog Collage, Music, and Working on a few App ideas
-- Masterful-Student Kemist|Philosopher|Jedi|Hogwarts Alumni 🧙🏾‍♂️
+- Create whatever I feel, but mostly Analog Collage, Music, and Working on a few Mobile App ideas
+- Masterful-Student Kemist | Philosopher | Jedi | Hogwarts Alumni 🧙🏾‍♂️
+- Watching Anime
 - Magic The Gathering 
 
-### _________
+### Languages and Tools I'm looking to get better with
 
 ![image](https://img.shields.io/badge/CodeNewbie-9013FE?style=for-the-badge&logo=CodeNewbie&logoColor=white
 )
