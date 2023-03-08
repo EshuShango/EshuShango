@@ -33,7 +33,7 @@ Over 10 years of creative experience;
 I love to be creative in many ways ! And life experiences 🧗🏾‍♂️ have taught me to be adaptable and I tend to be more than less, unique in my approach to problem solving.
 
 ### What do I do for Fun ?
-- Learn, Create whatever I feel, but mostly Analog Collage, Software Construcing and Music, 
+- Learn, Create whatever I feel, but mostly Analog Collage, Software Construction and Music, 
 - Masterful-Student Kemist | Philosopher | Jedi | Hogwarts Alumni 🧙🏾‍♂️
 - Watching Anime
 - Magic The Gathering 
