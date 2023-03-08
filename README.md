@@ -14,31 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### About Me
+## About Me
 
 **I'm a Creative thinker, self driven and capable humane being.**
 
-Aspiring to spread Awareness and Empathy through out the world by utilizing the Arts, Technology and Human interaction.
+_Aspiring to spread Awareness and Empathy through out the world by utilizing the Arts, Technology and Human interaction.
 <br/>
-I'm doing this in a variety of ways with a variety of mediums.<br/>
+I'm doing this in a variety of ways with a variety of mediums._ <br/>
 Over 10 years of creative experience; 
 
-- Curious humane being 🤔🧐
-- Avid life learner 🧠
-- 🌱 I’m currently learning {MERN} 
-- 🔭 I’m currently working to become a better version of myself, but in these specific moments Im looking to be a better 💻 Software Constructor !
+- **Curious humane being 🤔🧐**
+- **Avid life learner 🧠 (a bit obsessed 😅)**
+- **🌱 I’m currently learning {MERN} and advancing my JavaScript knowledg & skills**
+- **🔭 I’m currently working to become a better version of myself, <br/>but in these specific moments Im aiming to be a better 💻 Full Stack Software Constructor !**
 
-### Creative Expressionist & Adaptable Humane Being  
+## Creative Expressionist & Adaptable Humane Being  
 
-I love to be creative in many ways ! And life experiences 🧗🏾‍♂️ have taught me to be adaptable and more than less unique in my approach to problem solving.
+I love to be creative in many ways ! And life experiences 🧗🏾‍♂️ have taught me to be adaptable and I tend to be more than less, unique in my approach to problem solving.
 
 ### What do I do for Fun ?
-- Create whatever I feel, but mostly Analog Collage, Music, and Working on a few Mobile App ideas
+- Learn, Create whatever I feel, but mostly Analog Collage, Software Construcing and Music, 
 - Masterful-Student Kemist | Philosopher | Jedi | Hogwarts Alumni 🧙🏾‍♂️
 - Watching Anime
 - Magic The Gathering 
 
-### Languages and Tools I'm looking to get better with
+### Languages and Tools I use and/or Learning to get better with (will be adding as I Learn)
 
 ![image](https://img.shields.io/badge/CodeNewbie-9013FE?style=for-the-badge&logo=CodeNewbie&logoColor=white)
 ![image](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
