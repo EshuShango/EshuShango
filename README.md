@@ -26,7 +26,7 @@ Over 10 years of creative experience;
 - **Curious humane being 🤔🧐**
 - **Avid life learner 🧠 (a bit obsessed 😅)**
 - **🌱 I’m currently learning {MERN} and advancing my JavaScript knowledg & skills**
-- **🔭 I’m currently working to become a better version of myself, <br/>but in these specific moments Im aiming to be a better 💻 Full Stack Software Constructor !**
+- **🔭 I’m working on becoming a better version of myself, <br/>but currently I'm aiming to be a better 💻 Full Stack Software Constructor(Engineer) !**
 
 ## Creative Expressionist & Adaptable Humane Being  
 
