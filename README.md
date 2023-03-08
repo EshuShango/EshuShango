@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 ### About Me
 
 I'm a Creative thinker and capable humane being.
-Aspiring to spread Awareness and Empathy through out the world by utilizing the Arts, Technology and Human interaction. 
+Aspiring to spread Awareness and Empathy through out the world by utilizing the Arts, Technology and Human interaction.
+I'm doing this in a variety of ways with a variety of mediums. 
 Over 10 years of creative experience; 
 
 - Curious humane being 🤔🧐
@@ -27,7 +28,8 @@ Over 10 years of creative experience;
 
 ### Creative Expressionist & Adaptable Humane Being  
 
-I love to be creative in many ways ! Life experiences 🧗🏾‍♂️ have taught me to be adaptable and more than less unique in my approach to problem solving.
+I'm Self driven and self taught (mostly).
+I love to be creative in many ways ! And life experiences 🧗🏾‍♂️ have taught me to be adaptable and more than less unique in my approach to problem solving.
 
 ### What do I do for Fun ?
 - Create whatever I feel, but mostly Analog Collage, Music, and Working on a few Mobile App ideas
