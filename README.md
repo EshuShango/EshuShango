@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 **I'm a Creative thinker, self driven and capable humane being.**
 
+ Masterful-Student | Kemist | Natural Philosopher | Sith Lord, turned Jedi Knight | Hogwarts Alumni 🧙🏾‍♂️
+
 _Aspiring to spread Awareness and Empathy through out the world by utilizing the Arts, Technology and Human interaction.
 <br/>
 I'm doing this in a variety of ways with a variety of mediums._ <br/>
@@ -33,9 +35,8 @@ Over 10 years of creative experience;
 I love to be creative in many ways ! And life experiences 🧗🏾‍♂️ have taught me to be adaptable and I tend to be more than less, unique in my approach to problem solving.
 
 ### What do I do for Fun ?
-- Learn, Create whatever I feel, but mostly Analog Collage, Software Construction and Music, 
-- Masterful-Student Kemist | Philosopher | Jedi | Hogwarts Alumni 🧙🏾‍♂️
-- Watching Anime
+- Learn, Create whatever I feel, but mostly Analog Collage, Construct Software Programs and Music, 
+- Watch Anime
 - Magic The Gathering 
 
 ### Languages and Tools I use and/or Learning to get better with (will be adding as I Learn)
@@ -59,8 +60,10 @@ I love to be creative in many ways ! And life experiences 🧗🏾‍♂️ have
   
   
   💛 a beautiful, cruel 🌍
-…
+… 
 🔥 💨 🌊 🌱 🌈 
+
+_Visioneer-Polymath-Being_
 
 🏾‍🎨:
 [olu.World](http://olu.world/)
