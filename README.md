@@ -27,7 +27,7 @@ Over 10 years of creative experience;
 
 - **Curious humane being 🤔🧐**
 - **Avid life learner 🧠 (a bit obsessed 😅)**
-- **🌱 I’m currently learning TypeScript and advancing my JavaScript, {MERN} and SQL/NoSQL knowledge & skills**
+- **🌱 I’m currently advancing my JavaScript, {MERN} and SQL/NoSQL knowledge & skills**
 - **🔭 I’m working on becoming a better version of myself, <br/>but currently I'm aiming to be a better 💻 Software Constructor**(Engineer) ! 
 
 ## Creative Expressionist & Adaptable Humane Being  
