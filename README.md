@@ -41,7 +41,7 @@ I love to be creative in many ways ! And life experiences 🧗🏾‍♂️ have
 
 ### Languages and Tools I use and/or Learning to get better with (will be adding as I Learn)
 
-![image](https://img.shields.io/badge/CodeNewbie-9013FE?style=for-the-badge&logo=CodeNewbie&logoColor=white)
+<!-- ![image](https://img.shields.io/badge/CodeNewbie-9013FE?style=for-the-badge&logo=CodeNewbie&logoColor=white) -->
 ![image](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
