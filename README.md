@@ -27,7 +27,7 @@ Over 10 years of creative experience;
 
 - **Curious humane being 🤔🧐**
 - **Avid life learner 🧠 (a bit obsessed 😅)**
-- **🌱 I’m currently advancing my JavaScript, {MERN} and SQL/NoSQL knowledge & skills**
+- **🌱 I’m currently advancing my JavaScript and ReactJS knowledge & skills**
 - **🔭 I’m working on becoming a better version of myself, <br/>but currently I'm aiming to be a better 💻 Software Constructor**(Engineer) ! 
 
 ## Creative Expressionist & Adaptable Humane Being  
@@ -35,7 +35,7 @@ Over 10 years of creative experience;
 I love to be creative in many ways ! And life experiences 🧗🏾‍♂️ have taught me to be adaptable and I tend to be more than less, unique in my approach to problem solving.
 
 ### What do I do for Fun ?
-- Learn, Create whatever I feel, but mostly Analog Collage, Construct Software Programs and Music, 
+- Learn, Create whatever I feel, but mostly Analog Collage, Construct Software, and Music, 
 - Watch Anime
 - Magic The Gathering 
 
