@@ -27,8 +27,8 @@ Over 10 years of creative experience;
 
 - **Curious humane being 🤔🧐**
 - **Avid life learner 🧠 (a bit obsessed 😅)**
-- **🌱 I’m currently advancing my JavaScript and ReactJS knowledge & skills**
-- **🔭 I’m working on becoming a better version of myself, <br/>but currently I'm aiming to be a better 💻 Software Constructor**(Engineer) ! 
+- **🌱 I’m currently advancing my Front-End knowledge & skills (Mostly with threeJS)**
+- **🔭 I’m working on becoming a better version of myself**! 
 
 ## Creative Expressionist & Adaptable Humane Being  
 
